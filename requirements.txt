@@ -1,0 +1,8 @@
+numpy==2.4.1
+pandas==2.3.3
+plotly==6.5.1
+scikit_learn==1.8.0
+streamlit==1.53.0
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
+torch==2.9.1
